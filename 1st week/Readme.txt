@@ -32,4 +32,10 @@ HTML --- head
 When creating a section on a page we use <div> or <section>
 Header can take any kind of html element
 <span> is used to group elements for styling
+<main> tag is used to wrap all the content
 
+Semantic elements have special meaning and describe this to the browser
+<article> <header> <nav>
+
+Metadata is information about a webpage that includes scripts, styles and data
+to assist the user and render the page
