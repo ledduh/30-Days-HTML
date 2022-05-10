@@ -39,3 +39,23 @@ Semantic elements have special meaning and describe this to the browser
 
 Metadata is information about a webpage that includes scripts, styles and data
 to assist the user and render the page
+
+<base /> refers to the base url of all relative urls in a document
+
+IDs identify a single element in html
+A class can identifu more than one element
+
+<table> - table tag
+<thead> - table head
+<th>
+<tbody> - table body
+<td>
+
+
+Types of lists
+Ordered lists - <ol>
+Unordered lists - <ul>
+Description list - <dl>
+<dt> - Specifies a term
+<dd> -  used to describe a term
+
