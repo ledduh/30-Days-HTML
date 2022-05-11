@@ -1,2 +1,2 @@
 # 30-Days-HTML
-Trying HTML path
+Essentials of HTML
