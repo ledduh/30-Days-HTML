@@ -1,4 +1,4 @@
-Essentials of HTML 
+Essentials of <HTML> 
 
 Browser - Chrome
 Design - Figma / AdobeXD
